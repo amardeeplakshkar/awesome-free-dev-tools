@@ -38,6 +38,7 @@ The natural sequel to awesome-free-llm-apis - same promise ("free, no card"), wi
 | [jwt.io](https://jwt.io/) | Decode and inspect JSON Web Tokens |
 | [crontab.guru](https://crontab.guru/) | Explain cron schedules in plain English |
 | [JSON Crack](https://jsoncrack.com/) | Visualise JSON as interactive graphs |
+| [BestJSON](https://bestjson.com/) | Format, validate, repair, compare and query JSON locally in the browser |
 
 ## Code Playgrounds
 | Tool | What it does |
