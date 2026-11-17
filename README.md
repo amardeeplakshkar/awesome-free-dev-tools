@@ -4,10 +4,10 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Free developer tools, no credit card. Curated, simple, and free to use — one line per entry.
+> Free developer tools, no credit card. Curated, simple, and free to use - one line per entry.
 
 ## Why This List
-The natural sequel to awesome-free-llm-apis — same promise ("free, no card"), wider topic, and none of the rate-limit checking that made the first list heavy.
+The natural sequel to awesome-free-llm-apis - same promise ("free, no card"), wider topic, and none of the rate-limit checking that made the first list heavy.
 
 ## Contents
 - [API and Testing](#api-and-testing)
@@ -57,4 +57,4 @@ The natural sequel to awesome-free-llm-apis — same promise ("free, no card"), 
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the tool must be free, no credit card required. No trial-only tools. One entry per tool.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
