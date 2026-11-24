@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-dev-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
 
 > Free developer tools, no credit card. Curated, simple, and free to use - one line per entry.
 
@@ -39,6 +39,7 @@ The natural sequel to awesome-free-llm-apis - same promise ("free, no card"), wi
 | [crontab.guru](https://crontab.guru/) | Explain cron schedules in plain English |
 | [JSON Crack](https://jsoncrack.com/) | Visualise JSON as interactive graphs |
 | [BestJSON](https://bestjson.com/) | Format, validate, repair, compare and query JSON locally in the browser |
+| [MicroTools](https://tools.splitlight.ai) | 18+ free developer utilities that run in the browser, no sign-up |
 
 ## Code Playgrounds
 | Tool | What it does |
@@ -53,6 +54,7 @@ The natural sequel to awesome-free-llm-apis - same promise ("free, no card"), wi
 | --- | --- |
 | [Supabase](https://supabase.com/) | Free Postgres and auth |
 | [Cloudflare](https://www.cloudflare.com/) | DNS, CDN and Workers on a free plan |
+| [Strict](https://strict.ai) | Turn spare Mac and Linux machines into self-hosted GitHub Actions runners, free forever |
 
 ## Contributing
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the tool must be free, no credit card required. No trial-only tools. One entry per tool.
