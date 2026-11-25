@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-dev-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-24-orange.svg)]()
 
 > Free developer tools, no credit card. Curated, simple, and free to use - one line per entry.
 
@@ -26,6 +26,7 @@ The natural sequel to awesome-free-llm-apis - same promise ("free, no card"), wi
 | [Insomnia](https://insomnia.rest/) | API client for REST, GraphQL, gRPC |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake REST API for testing |
 | [Swagger Editor](https://editor.swagger.io/) | Design and validate OpenAPI specs |
+| [TestSprite](https://www.testsprite.com/pricing) | AI testing agent that checks web apps end to end, free plan with 150 credits a month and no card required |
 
 ## Everyday Utilities
 | Tool | What it does |
