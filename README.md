@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-dev-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-24-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-25-orange.svg)]()
 
 > Free developer tools, no credit card. Curated, simple, and free to use - one line per entry.
 
@@ -41,6 +41,7 @@ The natural sequel to awesome-free-llm-apis - same promise ("free, no card"), wi
 | [JSON Crack](https://jsoncrack.com/) | Visualise JSON as interactive graphs |
 | [BestJSON](https://bestjson.com/) | Format, validate, repair, compare and query JSON locally in the browser |
 | [MicroTools](https://tools.splitlight.ai) | 18+ free developer utilities that run in the browser, no sign-up |
+| [Postmaster of Puppets](https://postmasterofpuppets.com/) | Check if anyone can send email as your domain from its MX, SPF, DKIM and DMARC records |
 
 ## Code Playgrounds
 | Tool | What it does |
